@@ -25,8 +25,8 @@
     ]
   ],
   "checkver": {
-    "url": "https://snipset.belajarcarabelajar.com/checksums.json",
-    "jsonpath": "$.version"
+    "url": "https://snipset.belajarcarabelajar.com/api/updater/published-facts",
+    "jsonpath": "$.windows.version"
   },
   "autoupdate": {
     "architecture": {
