@@ -24,3 +24,6 @@ jobs:
         uses: ScoopInstaller/GithubActions@5bceeda181721d9d10a18fdcc3ddca6f33467ae6 # v3.0.0
         env:
           SKIP_UPDATED: 1
+          # Fail the run when checkver cannot read the version, instead of a
+          # green run that updated nothing (checksums.json returned 403 here).
+          THROW_ERROR: 1
