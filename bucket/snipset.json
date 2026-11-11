@@ -1,5 +1,5 @@
 {
-  "version": "0.6.864",
+  "version": "0.6.865",
   "description": "Smart AI-Powered Snippet Manager and Text Expander for desktop",
   "homepage": "https://snipset.belajarcarabelajar.com",
   "license": "Proprietary",
@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://snipset.belajarcarabelajar.com/api/updater/download/windows-v0.6.864/Snipset_0.6.864_x64-portable.zip",
-      "hash": "e1d9aee64be7986cc18404136db56adf8e2ac1ccad95e655d1880ab20f069897"
+      "url": "https://snipset.belajarcarabelajar.com/api/updater/download/windows-v0.6.865/Snipset_0.6.865_x64-portable.zip",
+      "hash": "7d5c21c254d0cc81cd6dba8a49ed480a93095cd53376ee39ea710ff07da07018"
     }
   },
   "bin": [
